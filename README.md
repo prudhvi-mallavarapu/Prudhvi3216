@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prudhvi3216
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN Stack 
+- 🌱 Full Stack Freelance Developer (Laravel  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mallavarapuprudhvi@gmail.com
 
