@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prudhvi3216
 - 👀 I’m interested in web development
-- 🌱 Full Stack Freelance Web Developer (Laravel Framework, React Lib., Node Js, HTML, CSS, JS)  
+- 🌱 Full Stack Freelance Web Developer (Laravel Framework, React Lib., HTML, CSS, JS)  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mallavarapuprudhvi@gmail.com
 
